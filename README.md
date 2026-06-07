@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Olá! Sou Quézia, estudante de **Análise e Desenvolvimento de Sistemas** no SENAI São Paulo e **Estagiária de TI** na **Qualiserve** — empresa Microsoft Solutions Partner.
+Olá! Sou Quézia, estudante de **Análise e Desenvolvimento de Sistemas** no SENAI São Paulo e **Estagiária de TI** na **Qualiserve IT Experience** - empresa Microsoft Solutions Partner.
 
 Com trajetória iniciada no setor automotivo e hoje imersa no universo da tecnologia, foco minha carreira na intersecção entre **infraestrutura Cloud**, **suporte especializado** e **desenvolvimento**. Transformo conhecimento teórico em soluções operacionais reais em um ambiente de serviços gerenciados (MSP).
 
