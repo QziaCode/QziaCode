@@ -41,7 +41,7 @@ Com trajetória iniciada no setor automotivo e hoje imersa no universo da tecnol
 ### 🖥️ Microsoft & Suporte
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![N-able](https://img.shields.io/badge/N--able_RMM-007EC6?style=for-the-badge&logo=data:image/png;base64,&logoColor=white)
+![N-able](https://img.shields.io/badge/N--able_RMM-007EC6?style=for-the-badge&logo=server&logoColor=white)
 
 </div>
 
@@ -81,8 +81,8 @@ Com trajetória iniciada no setor automotivo e hoje imersa no universo da tecnol
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=QziaCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QziaCode&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats-mu-topaz-98.vercel.app/api?username=QziaCode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats-mu-topaz-98.vercel.app/api/top-langs/?username=QziaCode&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
